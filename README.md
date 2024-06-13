@@ -1,6 +1,6 @@
-# Notebooks, files, and programs from "Python in Five Weeks"
+# Notebooks, files, and programs from "Python Fundamentals"
 
-This repo contains the Jupyter notebook + program files from my training for O'Reilly starting in April 2024.  It'll remain open, so you can review the material later on.
+This repo contains the Jupyter notebook + program files from my training for O'Reilly from June 13th, 2024.  It'll remain open, so you can review the material later on.
 
 Enjoy!
 
